@@ -8,3 +8,12 @@
 
 ## 📦 Estrutura
 
+nebula-hub/ ├── loader.lua ├── src/ │ ├── gui.lua │ ├── autofarm.lua │ ├── mobile_drag.lua │ └── config.lua
+
+
+## 🚀 Como usar
+
+Copie e cole este loader no seu executor Roblox:
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nebulahub757/nebula-hub/main/loader.lua"))()
